@@ -1,5 +1,5 @@
 # AI-powered FP&A Copilot
-Transform structured financial data into executive-ready insights using AI
+TL;DR: Accelerates finance reporting by converting raw credit card and FP&A data into executive-ready summaries in minutes, improving speed, consistency, and traceability of insights using AI.
 
 ## Demo
 
